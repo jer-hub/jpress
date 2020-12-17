@@ -10561,3 +10561,15 @@ td.text-right {
 .a-bg a:hover{
   background-color: rgba(0, 0, 0, 0.075)
 }
+
+/* Video Description*/
+.video_desc {
+  margin-bottom: 5em;
+  text-align: justify;
+}
+
+.video_time_authored{
+  color: gray;
+  size: 10px;
+  margin-bottom: 2em;
+}
